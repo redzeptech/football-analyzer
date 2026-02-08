@@ -1,4 +1,12 @@
 # Futbol Analiz Aracı
+![Sample Report](report_sample.png)
+
+## Examples
+
+Single team:
+```bash
+python main.py --team "Fenerbahçe" --last 10
+
 
 CSV veya API-Football ile takım performans analizi. Dünya liglerini destekler.
 
