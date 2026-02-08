@@ -116,3 +116,6 @@ FootballAnalyzer/
 ├── requirements.txt
 └── README.md
 ```
+## Quick Start (Windows)
+
+1) Projeyi indir: https://github.com/redzeptech/football-analyzer.git
