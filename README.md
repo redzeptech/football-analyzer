@@ -1,3 +1,5 @@
+A lightweight command-line football analysis tool that evaluates team performance and produces an HTML match report using historical results.
+
 # Futbol Analiz Aracı
 ![Sample Report](report_sample.png)
 
