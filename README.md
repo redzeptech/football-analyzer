@@ -9,7 +9,10 @@ python main.py --team "Fenerbahçe" --last 10
 
 
 CSV veya API-Football ile takım performans analizi. Dünya liglerini destekler.
-
+## Roadmap
+- Multi-league datasets (data/england, data/spain, etc.)
+- CSV export
+- Power ranking table
 ## Kurulum
 
 ```bash
